@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">MERN Stack developer from Kerala,India</h3>
+<h3 align="center">MERN Stack developer from Karnataka,India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jastin-vlogger&label=Profile%20views&color=green" alt="jojit-thomas" /> </p>
 
