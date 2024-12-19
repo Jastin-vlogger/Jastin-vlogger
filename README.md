@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jastin-vlogger&label=Profile%20views&color=green" alt="jojit-thomas" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack** **@Brocamp**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [jastin-vlogger.github.io](https://jastin-vlogger.github.io/)
 
